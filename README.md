@@ -198,28 +198,6 @@ Smart India Hackathon project for intelligent public transport.
 
 ---
 
-## 🏥 Medora
-
-> **AI + Blockchain Medicine Supply Chain**
-
-AI-powered medicine tracking platform using Blockchain technology.
-
-**Tech Stack**
-
-`React` `Node.js` `Blockchain` `Supabase`
-
-**Highlights**
-
-✨ QR Verification • Blockchain Ledger • Fraud Detection • Supply Chain
-
-<p>
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
 <div align="center">
 
 ### 💙 More Projects Coming Soon...
